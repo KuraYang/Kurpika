@@ -1,2 +1,0 @@
-# Kurpika
-Git课程
